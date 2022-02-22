@@ -15,13 +15,13 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.1.12",
+        "target": "4.0.17",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "yotta": {
         "config": {
             "microbit-dal": {
